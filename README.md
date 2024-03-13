@@ -5,6 +5,8 @@ A little program with web UI and search interface to calculate [Bacon's Law](htt
 This is where the program code is located. It mainly consists of a self-programmed Matrix class and code for performing the Dijkstra algorithm on an [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix).
 
 The adjecency matrix is built from data that stems from an actors.csv, listing one movie per row and all actors starring in that movie. We then extracted that data into a database in order to make it easier to access actor-to-actor relations.
+## Dev-luho
+The development branch for contributor luho91.
 ## Website
 Here are the files for the web UI. Any user can  use the interface to search for actor names and find their Degree of Bacon, or respectively their relationship to any other actor.
 # Complications
